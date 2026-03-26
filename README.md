@@ -58,5 +58,5 @@ A secure and automated attendance system that uses facial recognition, video rec
 - Use two terminal tabs: one for backend, one for frontend
 - Allow webcam permissions when prompted
 
-## License
-MIT — For educational use by B.Tech students.
+## Author
+Sami Noor Saifi
